@@ -2,7 +2,7 @@ CircleImageView
 ===============
 
 ## Screenshot
-![Screenshot](https://github.com/jingle1267/CircleImageView/master/circle_view_demo_preview.jpg)
+![Screenshot](https://raw.githubusercontent.com/jingle1267/CircleImageView/master/circle_view_demo_preview.jpg)
 
 ## Acknowledgements
 
